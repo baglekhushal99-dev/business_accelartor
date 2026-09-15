@@ -1,0 +1,7 @@
+﻿1|Priya Fashion Hub|Priya Fashion Hub is a modern clothing store offering trendy fashion for men and women including casual wear, party wear, and seasonal collections. The store focuses on affordable and stylish clothing
+2|Priya Fitness Studio|Priya Fitness Studio provides professional fitness training including weight loss programs, yoga sessions, strength training, and personalized fitness plans for individuals.
+3|TechNova Solutions|TechNova Solutions is a software development company that provides custom web development, mobile application development, and cloud solutions for startups and small businesses. The company focuses on modern technologies and scalable digital products.
+4|Rahul Digital Marketing|Rahul Digital Marketing is a digital marketing agency that helps businesses grow online through SEO, social media marketing, Google Ads, and content marketing strategies.
+5|Diamond Shine Jewelry|A diamond polishing and jewelry business offering premium diamond rings, necklaces, and custom jewelry designs.
+6|Sherry Web Solutions|Sherry Web Solutions provides website development, e-commerce store development, and custom software solutions for startups and local businesses in Surat.
+7|Pearl Construction Group|Pearl Construction Group is a construction company specializing in residential and commercial building projects. The company provides services such as building construction, renovation, interior work, and project management while focusing on quality materials and modern construction techniques.
